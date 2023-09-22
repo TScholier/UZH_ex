@@ -1,3 +1,3 @@
 # Hiking in Switzerland
 I can recommend [this site](https://swissfamilyfun.com/) for hikes in Switzerland.
-You can visit places like this: ![oeschinensee]([/Users/tiffanyscholier/Documents/oesch.jpeg](https://www.google.com/search?sca_esv=567587230&sxsrf=AM9HkKkzOUhnPDuPc4OD5ImcnUaSS159Rg:1695387860492&q=oeschinensee+hike&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjl_bj5o76BAxVZo_0HHfZwBUcQ0pQJegQIDRAB&biw=1440&bih=821&dpr=2#imgrc=sHpzYpiOw5qZDM)https://www.google.com/search?sca_esv=567587230&sxsrf=AM9HkKkzOUhnPDuPc4OD5ImcnUaSS159Rg:1695387860492&q=oeschinensee+hike&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjl_bj5o76BAxVZo_0HHfZwBUcQ0pQJegQIDRAB&biw=1440&bih=821&dpr=2#imgrc=sHpzYpiOw5qZDM)
+You can visit places like this: ![oeschinensee](https://swissfamilyfun.com/wp-content/uploads/2017/08/oeschinensee-panorama-heuberg.jpg)
