@@ -1,6 +1,2 @@
-# UZH_ex
-## this is a test
-```{r}
-result = 1 + 1
-print(result)
-```
+# Hiking in Switzerland
+I can recommend [this site](https://swissfamilyfun.com/) for hikes in Switzerland.
