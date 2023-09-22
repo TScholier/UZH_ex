@@ -1,3 +1,0 @@
-I am doing a test.
-
-Now it has to appear in VSC.
